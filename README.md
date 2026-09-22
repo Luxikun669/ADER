@@ -21,9 +21,13 @@ The source code, pretrained models, and evaluation scripts will be released upon
 Citation information will be updated after the paper is accepted.
 
 ```bibtex
-@inproceedings{lu2027ader,
-  title  = {Adaptive Depth and Expert Refinement for Efficient Speech Enhancement},
-  author = {Lu, Xikun and Ma, Yujian and Sang, Jinqiu},
-  year   = {2027}
+@misc{lu2026adaptivedepthexpertrefinement,
+      title={Adaptive Depth and Expert Refinement for Efficient Speech Enhancement}, 
+      author={Xikun Lu and Yujian Ma and Yunda Chen and Xianquan Jiang and Jinqiu Sang},
+      year={2026},
+      eprint={2609.22824},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2609.22824}, 
 }
 
